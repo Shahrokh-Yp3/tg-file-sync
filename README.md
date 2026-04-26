@@ -1,1 +1,0 @@
-Telegram file sync repository.
